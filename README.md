@@ -1,5 +1,5 @@
 
-DUNE Computing Training Decmber 2021 edition
+DUNE Computing Training January 2023 edition
 ============================================
 
 This repository holds the source code of the webpage that is rendered [here](https://dune.github.io/computing-training-202112/). 
@@ -10,7 +10,7 @@ This edition of the computing training extends from the [January 2021 training](
 
 When:
 
-2021 December 10, Friday, from 9:00 AM - 1:00 PM CST
+2023 January 26, Thursday, from 8:00 AM - 11:30 PM CST
 
 What:
 
@@ -29,7 +29,7 @@ Questions?
 
 Contact the organizers at: dune-computing-training@fnal.gov 
 
-New slack channel: #computing_training_dec2021 
+New slack channel: #computing_training_jan2023 
 
 ## Contributing
 
