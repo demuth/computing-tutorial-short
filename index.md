@@ -19,7 +19,7 @@ collaborative_notes: "2021-12-10-dune"
 eventbrite:
 ---
 
-The aim of this tutorial is to provide participants an expedited opportunity to learn the basics of DUNE Computing.   A three half-day version  of this tutorial was offered in [May 2021](https://dune.github.io/computing-training-202112/) and may prove to be a reference. 
+The aim of this tutorial is to provide participants an expedited opportunity to learn the basics of DUNE Computing.  A similar half-day session was presented in [December 2021](https://dune.github.io/computing-training-202112) from which this site extends from.  A three half-day version  of this tutorial was offered in [May 2021](https://dune.github.io/computing-training-202105/), and a recent two-day version in [May 2022](https://dune.github.io/computing-training-basics) and may prove to be a reference. 
 
 Here our schedule spans two parts, and advise your complete attention throughout.
 
