@@ -1,6 +1,6 @@
 ---
 title: Code-makeover - Submit with POMS
-teaching: 15
+teaching: 30
 exercises: 0
 questions:
 - How to submit grid jobs with POMS?

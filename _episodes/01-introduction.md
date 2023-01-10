@@ -1,6 +1,6 @@
 ---
 title: Workshop Welcome and Introduction 
-teaching: 5
+teaching: 0
 exercises: 0
 questions:
 - What should I expect in participating in this workshop?

@@ -1,6 +1,6 @@
 ---
 title: Data Management
-teaching: 45
+teaching: 30
 exercises: 0
 questions:
 - What are the data management tools and software for DUNE?

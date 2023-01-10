@@ -15,7 +15,7 @@ enddate: "2023-01-26"
 instructor: ["Claire David", "Michael Kirby"]
 helper: ["mentor1", "mentor2"]
 email: ["claire.david@cern.ch","mkirby@fnal.gov"]
-collaborative_notes: "2021-12-10-dune"
+collaborative_notes: "2023-01-26-dune"
 eventbrite:
 ---
 
@@ -50,15 +50,25 @@ By the end of this workshop, participants will know how to:
 > to make sure you are good to go.
 {: .callout}
 
+<h2>These pages are a mockup of an upcoming computing tutorial</h2>
+
 You will need a valid FNAL or CERN account to be able to do the tutorial and be on the DUNE Collaboration member list. If you do not, contact your team leader.
 
 
-<h2 id="schedule">Schedule for Thursday, January 26, 2023, 8:00 am - 11:30 pm (CST/GMT-6)</h2>
-
-<!--{% include custom_schedule3.html %}-->
-<!--<center><img  alt="" src="fig/Schedule_computing_training_202105.png"/></center>-->
+<h3 id="schedule">Schedule for Thursday, January 26, 2023, 8:00 am - 11:30 pm (CST/GMT-6)</h3>
 
 
-<!-- An [asynchronous session]({{site.baseurl}}/asynchronous/) is designed as later day acivities for the first two days of the workshop.-->
+{% comment %}
+{% include custom_schedule3.html %}
+<center><img  alt="" src="fig/Schedule_computing_training_202105.png"/></center>
+An [asynchronous session]({{site.baseurl}}/asynchronous/) is designed as later day acivities for the first two days of the workshop.
+Schedule
+{% include sc/schedule.html %}
+Syllabus
+{% include sc/syllabus.html %}
+Intro 
+{% include sc/intro.html %}
+{% endcomment %}
+
 
 {% include links.md %}
